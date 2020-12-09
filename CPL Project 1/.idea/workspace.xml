@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f68095e-42ef-4c16-a9d1-ed5594b9fff0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kfiY5KTcyD2z9qELmfUFVSZRZ5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Movies">
+    <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python project 1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\amae8\Desktop\Ticket\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InsertionSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Movies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python project 1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\amae8\Desktop\Ticket\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Movies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Readcsv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python project 1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\amae8\Desktop\Ticket\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Readcsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\amae8\Desktop\Ticket\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readCsv" type="PythonConfigurationType" factoryName="Python">
+      <module name="python project 1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\amae8\Desktop\Python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.InsertionSort" />
+      <item itemvalue="Python.Movies" />
+      <item itemvalue="Python.Readcsv" />
+      <item itemvalue="Python.readCsv" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Movies" />
+        <item itemvalue="Python.Readcsv" />
+        <item itemvalue="Python.InsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f68095e-42ef-4c16-a9d1-ed5594b9fff0" name="Default Changelist" comment="" />
+      <created>1606098090764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606098090764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606098123565">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606098123565" />
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom" timestamp="1606110749213">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749213" />
+    <state width="1515" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606102573789" />
+    <state width="1515" height="277" key="GridCell.Tab.0.center" timestamp="1606110749213">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.center/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749213" />
+    <state width="1515" height="224" key="GridCell.Tab.0.center/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606102573789" />
+    <state width="1515" height="277" key="GridCell.Tab.0.left" timestamp="1606110749213">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.left/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749213" />
+    <state width="1515" height="224" key="GridCell.Tab.0.left/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606102573789" />
+    <state width="1515" height="277" key="GridCell.Tab.0.right" timestamp="1606110749213">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749213" />
+    <state width="1515" height="224" key="GridCell.Tab.0.right/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606102573789" />
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom" timestamp="1606110749214">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749214" />
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606099542867" />
+    <state width="1515" height="277" key="GridCell.Tab.1.center" timestamp="1606110749214">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.center/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749214" />
+    <state width="1515" height="277" key="GridCell.Tab.1.center/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606099542867" />
+    <state width="1515" height="277" key="GridCell.Tab.1.left" timestamp="1606110749214">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.left/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749214" />
+    <state width="1515" height="277" key="GridCell.Tab.1.left/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606099542867" />
+    <state width="1515" height="277" key="GridCell.Tab.1.right" timestamp="1606110749214">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@-1858.0.1858.1080" timestamp="1606110749214" />
+    <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606099542867" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1606098318400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606098318400" />
+    <state x="-1866" y="-8" width="1153" height="599" maximized="true" key="dock-window-1" timestamp="1606100782878">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1866" y="-8" width="1153" height="599" maximized="true" key="dock-window-1/0.0.1536.864/-1858.0.1858.1080/1920.0.1920.1080@0.0.1536.864" timestamp="1606100782878" />
+  </component>
+</project>
